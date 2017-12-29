@@ -1,3 +1,4 @@
+[English](ENreadme.md) 中文
 这是xiongzihua的git学习
 这是在另一个分支做的修改哦
 
