@@ -11,3 +11,7 @@
 最后 git push -u origin master 提交到远程版本！
 
 另外 git status 可以看当前git 仓库的情况
+
+再本地添加一个空的文件夹是不会影响的，文件夹中有内容时，git status才会检测到变化!
+
+git add -A 添加所有改变的文件到暂存区～
