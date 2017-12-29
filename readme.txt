@@ -2,3 +2,12 @@
 这是在另一个分支做的修改哦
 
 2017/12/27 修改
+
+理解一下工作流程...
+首先本地工作区发生了修改，但是仅仅只是工作区修改了。
+随后通过 git add readme.txt 添加到版本库，但是master版本没有发生变化。
+通过 git commit -m "change log" 將暂存区的内容提交到当前版本。
+
+最后 git push -u origin master 提交到远程版本！
+
+另外 git status 可以看当前git 仓库的情况
