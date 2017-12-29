@@ -15,3 +15,6 @@
 再本地添加一个空的文件夹是不会影响的，文件夹中有内容时，git status才会检测到变化!
 
 git add -A 添加所有改变的文件到暂存区～
+
+在线修改成markdown.......
+![理解](https://github.com/xiongzihua/learngit/blob/master/%E7%90%86%E8%A7%A3%E6%9A%82%E5%AD%98%E5%8C%BA.png)
